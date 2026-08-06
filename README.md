@@ -4,7 +4,7 @@ AI Engineer | Full-Stack Developer | Prompt Engineer | Virtual Assistant Develop
 
 ## About Me
 
-I am Muhammad Hafeez, an AI Engineer and Software Developer focused on intelligent assistants, automation systems, and modern full-stack applications. I enjoy combining practical engineering with polished user experiences.
+I am Muhammad Hafeez, an AI Engineer and Software Developer focused on intelligent assistants, automation systems, and modern full-stack applications. I combine practical engineering with polished, responsive user experiences.
 
 - AI Engineer and Software Developer at Decode Labs
 - Based in Lahore and available for remote opportunities
@@ -15,28 +15,10 @@ I am Muhammad Hafeez, an AI Engineer and Software Developer focused on intellige
 - Instagram: [@sayedhafeez313](https://www.instagram.com/sayedhafeez313)
 - Email: [haffeypythonista@gmail.com](mailto:haffeypythonista@gmail.com)
 
-## Portfolio Projects
+## Personal Portfolio
 
-### Aiba AI Virtual Assistant
+[Open My Live Portfolio](https://muhammad-hafeez.vercel.app/)
 
-![Aiba AI Virtual Assistant](https://raw.githubusercontent.com/haffey041707/Aiba-Virtual-Ai-Assistant/main/assets/AibaLauncher-1024.png)
+![Muhammad Hafeez personal portfolio home screen](assets/portfolio-home.png)
 
-[View Project](https://github.com/haffey041707/Aiba-Virtual-Ai-Assistant)
-
-### Virtual AI Birthday Wish
-
-![Virtual AI Birthday Wish](https://raw.githubusercontent.com/haffey041707/Virtual-Ai-Birthday-Wish/main/assets/aapi-jaan-fullscreen-wish.jpg)
-
-[View Project](https://github.com/haffey041707/Virtual-Ai-Birthday-Wish)
-
-### Restaurant Recommendation System
-
-![Restaurant Recommendation System](https://raw.githubusercontent.com/haffey041707/Full-Stack-Restaurant-Recommendation-System/main/static/images/bia-banner-1.jpg)
-
-[View Project](https://github.com/haffey041707/Full-Stack-Restaurant-Recommendation-System)
-
-### 313 Website
-
-![313 Website](https://raw.githubusercontent.com/haffey041707/313-Website/main/assets/website-preview.png)
-
-[Live Website](https://haffey041707.github.io/313-Website/) | [View Project](https://github.com/haffey041707/313-Website)
+![Muhammad Hafeez personal portfolio projects screen](assets/portfolio-projects.png)
