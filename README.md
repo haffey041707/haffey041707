@@ -1,24 +1,23 @@
+<div align="center">
+
 # Muhammad Hafeez
 
-AI Engineer | Full-Stack Developer | Prompt Engineer | Virtual Assistant Developer
+### AI Engineer | Full-Stack Developer | Prompt Engineer | Virtual Assistant Developer
 
-## About Me
+I build intelligent assistants, automation systems, and polished full-stack applications.
 
-I am Muhammad Hafeez, an AI Engineer and Software Developer focused on intelligent assistants, automation systems, and modern full-stack applications. I combine practical engineering with polished, responsive user experiences.
-
-- AI Engineer and Software Developer at Decode Labs
-- Based in Lahore and available for remote opportunities
-- HND Software Engineering student at Pearson
-- Diploma in Education IT from SEG Awards
-- Portfolio: [muhammad-hafeez.vercel.app](https://muhammad-hafeez.vercel.app/)
-- LinkedIn: [Muhammad Hafeez](https://www.linkedin.com/in/muhammad-hafeez-25b39b359)
-- Instagram: [@sayedhafeez313](https://www.instagram.com/sayedhafeez313)
-- Email: [haffeypythonista@gmail.com](mailto:haffeypythonista@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=white)](https://muhammad-hafeez.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/haffey041707)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hafeez-25b39b359)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sayedhafeez313)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haffeypythonista@gmail.com)
 
 ## Personal Portfolio
 
-[Open My Live Portfolio](https://muhammad-hafeez.vercel.app/)
+[Open Live Portfolio](https://muhammad-hafeez.vercel.app/)
 
 ![Muhammad Hafeez personal portfolio home screen](assets/portfolio-home.png)
 
 ![Muhammad Hafeez personal portfolio projects screen](assets/portfolio-projects.png)
+
+</div>
